@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Wuldmaster/project-cards/static/css/main.d9f14ffd.css",
+    "main.js": "/Wuldmaster/project-cards/static/js/main.bc5f644b.js",
+    "static/js/787.c7eb8a4a.chunk.js": "/Wuldmaster/project-cards/static/js/787.c7eb8a4a.chunk.js",
+    "static/media/banner.jpg": "/Wuldmaster/project-cards/static/media/banner.ecdd17ac7e4115aaf833.jpg",
+    "index.html": "/Wuldmaster/project-cards/index.html",
+    "main.d9f14ffd.css.map": "/Wuldmaster/project-cards/static/css/main.d9f14ffd.css.map",
+    "main.bc5f644b.js.map": "/Wuldmaster/project-cards/static/js/main.bc5f644b.js.map",
+    "787.c7eb8a4a.chunk.js.map": "/Wuldmaster/project-cards/static/js/787.c7eb8a4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9f14ffd.css",
+    "static/js/main.bc5f644b.js"
+  ]
+}
